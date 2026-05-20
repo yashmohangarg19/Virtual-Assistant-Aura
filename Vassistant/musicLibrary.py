@@ -1,0 +1,16 @@
+music = {
+    "paro":"https://www.youtube.com/watch?v=DxsDekHDKXo",
+    "1000 mile":"https://www.youtube.com/watch?v=EWRBHho2b_E&list=RDEWRBHho2b_E&start_radio=1",
+    "thousand mile":"https://www.youtube.com/watch?v=EWRBHho2b_E&list=RDEWRBHho2b_E&start_radio=1",
+    "love dose":"https://youtu.be/TvngY4unjn4?si=a6iLBEaKUWcAnlw7",
+    "blue eyes":"https://youtu.be/NbyHNASFi6U?si=AcbqeC1e5dwTBq2Y",
+    "na ja":"https://www.youtube.com/watch?v=Q-GOFPM01d0&list=RDQ-GOFPM01d0&start_radio=1",
+    "sakhiyan":"https://www.youtube.com/watch?v=S-ezhTXPVGU&list=RDS-ezhTXPVGU&start_radio=1",
+    "khwab":"https://youtu.be/2eliQ_KR8yA?si=hdBIqeY3ZmjUT6i6",
+    "bacha lo":"https://youtu.be/SdO4L0IVsGs?si=CIoTpiq-3CIE1psl",
+    "sadgi":"https://youtu.be/3_jrHiKTMPU?si=iBuCKPYpSu7InW92",
+    " she don't know":"https://youtu.be/_P3R63mmakg?si=7X0dpGDk1_QbPwDx",
+    "nazar lag jayegi":"https://youtu.be/kckDWrICC4s?si=NWj0i8OGatmrN9Mu",
+    "all black":"https://youtu.be/ReXw6TOnUOc?si=9lgmDhpvcgS2a2Wu",
+    "pal pal dil ke paas":"https://youtu.be/f5dw3nafOuo?si=-Jf_not-G5XdVec5",
+}
